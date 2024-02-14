@@ -10,6 +10,8 @@ Q5) Question: Write a Python function that takes two lists as arguments and retu
 For example, if the input lists are keys = ['Ten', 'Twenty', 'Thirty'] and values = [10, 20, 30], the output should be {'Ten': 10, 'Twenty': 20, 'Thirty': 30}.
 
 Q6) Write a program to print the following pattern using loops.
+
+            
             1  
 
          1  2  
@@ -19,6 +21,9 @@ Q6) Write a program to print the following pattern using loops.
    1  2  3  4  
 
 1  2  3  4  5
+
+
+
 
      *
     ***
