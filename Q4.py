@@ -9,7 +9,7 @@ def unduplicator():
 
     for j in range(n):
         check = el[j];
-        if(check != '#'):
+        if(check != '*'):
             for k in range(n):
                 if el.index(check) != k:
                     if el[k] == check:
